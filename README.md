@@ -1,16 +1,36 @@
-# guia_moteis_app
+# Guia de Motéis - Teste para Dev Flutter
 
-A new Flutter project.
+## Tecnologias Utilizadas
 
-## Getting Started
+- **Flutter**: Framework Flutter 3.27.1
+- **Dart**: Linguagem Dart 3.6.0
+- **Gerenciamento de Estado**: ChangeNotifier 
+- **Testes Unitários**
 
-This project is a starting point for a Flutter application.
+<h2>📱 Preview</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/69044669-0247-4ad8-ae8f-1334af873205" alt="Preview do App" width="300" height="600" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2> Como rodar o projeto</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```
+   Configure o ambiente de desenvolvimento na sua máquina:
+   https://flutter.dev/docs/get-started/install
+
+
+   - Clone o repositório:
+   $ git clone https://github.com/ArtthSilva/guia_moteis_app
+
+   - Entre no diretório:
+   $ cd guia_moteis_app
+
+   - Instale as dependências:
+   $ flutter pub get
+
+   - Execute:
+   $ flutter run
+
+   ```
+
+
+---
